@@ -72,3 +72,5 @@ Eklenti Chrome'dan kaldırıldığında, tarayıcıda saklanan tüm yerel verile
 Gizlilik politikası, veri güvenliği veya destek talepleriniz için:
 
 **E-posta:** orhanerenkara.dev@gmail.com
+
+© 2026 Orhan Eren Kara. All rights reserved.
